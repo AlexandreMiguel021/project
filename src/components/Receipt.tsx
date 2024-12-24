@@ -98,7 +98,7 @@ export function Receipt({ products, stateTax, cityTax, people }: ReceiptProps) {
           </button>
         </div>
       </div>
-      <div className="w-full border-b-4 rounded-xl border-dashed border-stone-200"></div>
+      <div className="w-full border-b-[8px] bg-transparent border-dashed border-white"></div>
     </div>
   );
 }
