@@ -1,4 +1,5 @@
 import { Receipt } from "./components/Receipt";
+import { SEOHead } from "./components/SEOHead";
 
 import Pessoas from "./data/pessoas.json";
 import Produtos from "./data/produtos.json";
@@ -6,6 +7,7 @@ import Produtos from "./data/produtos.json";
 function App() {
   return (
     <>
+      <SEOHead />
       <div className="min-h-screen bg-gradient-to-br from-red-100 to-green-100 p-4">
         <div className="max-w-md mx-auto space-y-6">
           <Receipt
