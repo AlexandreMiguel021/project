@@ -24,7 +24,7 @@ export function Receipt({ products, stateTax, cityTax, people }: ReceiptProps) {
 
   const handleCopy = () => {
     const textToCopy =
-      "Texto do QR Code aqui00020126330014BR.GOV.BCB.PIX011103295759294520400005303986540566.705802BR5924Alexandre Freitas Miguel6009SAO PAULO6214051021lpIoREl763046C68";
+      "00020126330014BR.GOV.BCB.PIX011103295759294520400005303986540566.705802BR5924Alexandre Freitas Miguel6009SAO PAULO6214051021lpIoREl763046C68";
     navigator.clipboard
       .writeText(textToCopy)
       .then(() => {
