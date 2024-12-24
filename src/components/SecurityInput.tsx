@@ -1,13 +1,13 @@
-import React, { useState } from 'react';
-import { Lock } from 'lucide-react';
+import { useState } from "react";
+import { Lock } from "lucide-react";
 
 interface SecurityInputProps {
   onValidate: (isValid: boolean) => void;
 }
 
 export function SecurityInput({ onValidate }: SecurityInputProps) {
-  const [code, setCode] = useState('');
-  const SECURITY_CODE = '2023'; // In a real app, this should be in a secure backend
+  const [code, setCode] = useState("");
+  const SECURITY_CODE = "2023"; // In a real app, this should be in a secure backend
 
   const handleCodeChange = (value: string) => {
     setCode(value);

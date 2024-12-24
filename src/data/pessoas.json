@@ -1,42 +1,52 @@
 [
   {
     "id": 1,
-    "name": "Rhayan"
+    "name": "Rhayan",
+    "paid": true
   },
   {
     "id": 2,
-    "name": "Ana"
+    "name": "Ana",
+    "paid": false
   },
   {
     "id": 9,
-    "name": "Simone"
+    "name": "Simone",
+    "paid": false
   },
   {
     "id": 3,
-    "name": "Tere"
+    "name": "Tere",
+    "paid": false
   },
   {
     "id": 4,
-    "name": "Aniz"
+    "name": "Anis",
+    "paid": false
   },
   {
     "id": 5,
-    "name": "Alexandre"
+    "name": "Alexandre",
+    "paid": false
   },
   {
     "id": 6,
-    "name": "Claudionor"
+    "name": "Claudionor",
+    "paid": false
   },
   {
     "id": 7,
-    "name": "Lu"
+    "name": "Lu",
+    "paid": false
   },
   {
     "id": 8,
-    "name": "Thaísa"
+    "name": "Thaísa",
+    "paid": false
   },
   {
     "id": 10,
-    "name": "Kaique"
+    "name": "Kaique",
+    "paid": false
   }
 ]

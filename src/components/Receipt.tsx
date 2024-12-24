@@ -1,10 +1,11 @@
-import { Copy, Users } from "lucide-react";
+import { Check, Copy, Users, X } from "lucide-react";
 import { useState } from "react";
 import type { Product } from "./ProductList";
 
 interface Person {
   name: string;
   id: number;
+  paid: boolean;
 }
 
 interface ReceiptProps {
@@ -71,7 +72,14 @@ export function Receipt({ products, stateTax, cityTax, people }: ReceiptProps) {
               {people.map((person) => (
                 <div key={person.id} className="flex justify-between">
                   <span>{person.name}</span>
-                  <span>R$ {perPerson.toFixed(2)}</span>
+                  <span className="flex gap-3">
+                    R$ {perPerson.toFixed(2)}{" "}
+                    {person.paid ? (
+                      <Check color="#3caf00" />
+                    ) : (
+                      <X color="#f00" />
+                    )}
+                  </span>
                 </div>
               ))}
             </div>
