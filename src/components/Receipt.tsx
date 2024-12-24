@@ -48,8 +48,8 @@ export function Receipt({ products, stateTax, cityTax, people }: ReceiptProps) {
         <div className="border-t border-b border-dashed border-gray-300 py-4 space-y-2">
           {products.map((product) => (
             <div key={product.id} className="flex justify-between text-sm">
-              <span>{product.name}</span>
-              <span>R$ {product.price.toFixed(2)}</span>
+              <span className="max-w-44 line-clamp-1">{product.name}</span>
+              <span className="text-sm">R$ {product.price.toFixed(2)}</span>
             </div>
           ))}
         </div>
