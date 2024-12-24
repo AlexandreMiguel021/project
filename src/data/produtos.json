@@ -1,0 +1,133 @@
+[
+    {
+      "id": "1",
+      "name": "Coca Cola PET 2.5L 2UN",
+      "price": 22.58
+    },
+    {
+      "id": "2",
+      "name": "Coca Cola PET 2L 2UN",
+      "price": 18.98
+    },
+    {
+      "id": "3",
+      "name": "Uva Benitaka",
+      "price": 7.92
+    },
+    {
+      "id": "4",
+      "name": "Batata",
+      "price": 5.65
+    },
+    {
+      "id": "5",
+      "name": "Linguiça Churrasco Alegra 0,622KG",
+      "price": 11.24
+    },
+    {
+      "id": "6",
+      "name": "Papel Alumínio Gioca 2UN",
+      "price": 14
+    },
+    {
+      "id": "7",
+      "name": "Ovos Brancos Volpi c/ 30 (Grande)",
+      "price": 18.95
+    },
+    {
+      "id": "8",
+      "name": "Tempero Cheiro Verde Grill 500g",
+      "price": 7.98
+    },
+    {
+      "id": "9",
+      "name": "Sal Grosso Diana (1kg)",
+      "price": 3.58
+    },
+    {
+      "id": "10",
+      "name": "Papel Manteiga Cozinha Fácil (30x7.5)",
+      "price": 3.98
+    },
+    {
+      "id": "11",
+      "name": "Leite Condensado Moça (395g)",
+      "price": 5.98
+    },
+    {
+      "id": "12",
+      "name": "Creme de Leite Amanhecer (200g) 2UN",
+      "price": 6
+    },
+    {
+      "id": "13",
+      "name": "Chantilly Neve Dr. Oetker (50g)",
+      "price": 8.98
+    },
+    {
+      "id": "14",
+      "name": "Alho Importado",
+      "price": 8.98
+    },
+    {
+        "id": "21",
+        "name": "Linguiça Churrasco Alegra 1,612KG",
+        "price": 27.37
+    },
+    {
+      "id": "15",
+      "name": "Cebola",
+      "price": 1.48
+    },
+    {
+      "id": "16",
+      "name": "Contra Filé",
+      "price": 151.72
+    },
+    {
+      "id": "17",
+      "name": "Uva Itália",
+      "price": 11.67
+    },
+    {
+      "id": "18",
+      "name": "Mirtilo (125g)",
+      "price": 7.98
+    },
+    {
+      "id": "19",
+      "name": "Amora (100g)",
+      "price": 6.99
+    },
+    {
+      "id": "20",
+      "name": "Kiwi Importado",
+      "price": 3.36
+    },
+    {
+        "id": "22",
+        "name": "Limão taiti",
+        "price": 3.79
+    },
+    {
+        "id": "23",
+        "name": "Laranja Pera",
+        "price": 5.98
+    },
+    {
+        "id": "24",
+        "name": "Pessego Nacional",
+        "price": 11.88
+    },
+    {
+        "id": "25",
+        "name": "Carneiro 4KG",
+        "price": 120
+    },
+    {
+        "id": "26",
+        "name": "Costela Minga 7KG",
+        "price": 170
+    }
+  ]
+  
