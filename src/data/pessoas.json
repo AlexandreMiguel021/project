@@ -7,7 +7,7 @@
   {
     "id": 2,
     "name": "Ana",
-    "paid": false
+    "paid": true
   },
   {
     "id": 9,
@@ -47,7 +47,7 @@
   {
     "id": 10,
     "name": "Kaique",
-    "paid": false
+    "paid": true
   },
   {
     "id": 11,
