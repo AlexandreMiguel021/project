@@ -17,12 +17,12 @@
   {
     "id": 3,
     "name": "Tere",
-    "paid": false
+    "paid": true
   },
   {
     "id": 4,
     "name": "Anis",
-    "paid": false
+    "paid": true
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
   {
     "id": 7,
     "name": "Lu",
-    "paid": false
+    "paid": true
   },
   {
     "id": 8,
